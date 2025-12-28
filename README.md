@@ -26,7 +26,7 @@
 - 👨‍💻 Software Engineering undergraduate student
 - 🌱 Currently learning Python, basic C++, and starting Machine Learning
 - 💬 Ask me about programming fundamentals, problem solving, or university projects
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:bcasstt.dev@gmail.com).
+- 📫 Email me at [bcasstt.dev@gmail.com](mailto:bcasstt.dev@gmail.com).
 
 
 
