@@ -44,5 +44,3 @@
 <img src="https://github.com/bcasstt-dev?tab=repositories" alt="Carlos' GitHub Repositories">
 
 -----
-
-Last Edited on: 20/06/2021
